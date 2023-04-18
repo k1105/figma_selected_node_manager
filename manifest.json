@@ -1,0 +1,13 @@
+{
+  "name": "SelectedNodeManager",
+  "id": "1230064346628458813",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
